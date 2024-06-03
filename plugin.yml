@@ -1,27 +1,17 @@
 name: FastTravelUI
-
-api: 4.0.0
-
+api: 5.0.0
 main : Biswajit\Warps
-
 version: 1.0.0
-
 author: Biswajit
 
 commands:
-
   travel:
-
     description: Open The Fast Travel Menu For Warp In Different Places
-
     permission: travel.cmd
 
     
 
 permissions:
-
   travel.cmd:
-
     description: Permission to use FastTravelUI command
-
     default: true
